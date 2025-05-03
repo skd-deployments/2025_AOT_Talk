@@ -1,5 +1,7 @@
 # AOT Tech Talk 2025
 
+A talk for young engineers, to provide a glimpse into the in
+
 To start the slide show:
 
 - `pnpm install`
