@@ -27,12 +27,10 @@ layout: quote
 
 # Why this talk?
 
-<v-clicks>
 
 * Exposure into state-of-the-art industry
 * Guidelines for becoming an Engineer in a state-of-the-art industry
 
-</v-clicks>
 
 
 ---
