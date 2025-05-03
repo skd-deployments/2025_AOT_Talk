@@ -429,12 +429,13 @@ hide: true
 layout: quote
 ---
 
-```
-The woods are lovely, dark and deep,
-But I have promises to keep,
-And miles to go before I sleep,
-And miles to go before I sleep...
-```
+<div class="text-2xl">
+<span class="op-70"> The woods are lovely, dark and deep, </span> <br>
+<span class="op-60"> But I have promises to keep, </span> <br>
+<span class="op-50"> And miles to go before I sleep, </span> <br>
+<span class="op-30"> And miles to go before I sleep... </span> <br>
+</div>
+
 <div class="text-right dark:text-gray-500">
 - Robert Frost
 </div>
