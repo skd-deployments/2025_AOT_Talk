@@ -296,7 +296,7 @@ hide: true
 |      |                     |
 |------|---------------------|
 | 2011 | Failed to materialize a start-up |
-| 2022 | Got scammed into a MLM scheme |
+| 2012 | Got scammed into a MLM scheme |
 | 2013 | Dropped-out from coaching for GRE & TOEFL |
 | 2014 | Rejected by TCS |
 | 2016 | Changed the Master's thesis topic |
